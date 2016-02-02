@@ -1,7 +1,7 @@
 # dismathportfolio-delizodarwin
 dismathportfolio-delizodarwin created by Classroom for GitHub
 
- Week 1
+  Week 1
 - I learned about how to use proposition.
    Ex: x>10 at x=3. It is a proposition with a truth value false
 - I must practice in much challenging problems for the preparation for the upcoming quiz.
