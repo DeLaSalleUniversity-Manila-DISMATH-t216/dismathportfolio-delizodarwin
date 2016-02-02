@@ -6,7 +6,7 @@ dismathportfolio-delizodarwin created by Classroom for GitHub
    Ex: x>10 at x=3. It is a proposition with a truth value false
 - I must practice in much challenging problems for the preparation for the upcoming quiz.
 
- Week 2
+Week 2
 - I learned how to use Negation, Conjuncton and Disjunction
 - I am a bit confused with the use of Exclusive or
 - In the usage of Conditional all I remembered was: 
