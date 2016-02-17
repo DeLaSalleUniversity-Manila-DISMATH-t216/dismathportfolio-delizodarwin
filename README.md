@@ -31,7 +31,6 @@ Week 2
 - I learned about Modus Ponens, Modus tollens.
 - I'm a bit confused with Hypothetical cyllogism and Disjunctive cyllogism.
 - We were introduced to the use of Addition, Simplication, Conjunction and Resolution.
-- 
   Week 4
 - We have discussed a bit about the Superman problem, each of the statements in that problem were broken down.
 - It lead to the answer that Superman does not exist.
