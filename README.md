@@ -39,3 +39,29 @@ Week 2
 - It lead to the answer that Superman does not exist.
 - We were introduced to the first proof--Direct Proof
 - In using Direct proof we must assume p=T and show that q=T using eq1.
+  Week 5
+- We have discussed about Proof by Contradiction.
+- This topic is a bit more confusing than the first proofs
+- We were introduced to Mathematical Induction
+- In using Mathematical Induction, you have to assign the basis of the steps you are doing.
+- Next is you must perform the Inductive step, I think its another form for Direct proof.
+- It was confusing
+- Sir told us to study about Program Correctness because it will appear in Quiz 1.
+  Week 6
+- Sir introduced to a new topic, Set theory.
+- Set is an unordered collection of distinct objects, which may be anything(including other sets)
+- Sir taught us about set builder notations and using venn diagram
+- We have discussed about types of functions
+-   1. One to one function- never assign the same value to two different domain elements
+-   2. Onto function-Functions that has equal range and co-domain.
+-    ex: Dapat may at least 8 students para lahat may grade (0.0,1.0,1.5,...4.0)
+-   3. One-to-one Correspondence-Pag parehas one-to-one at onto, automatic bijective.
+  Week 7
+- We have tackled about Algorithm. I was late when Sir introduced algorithm in our class.
+- You must put the Procedure,Input ,Output and the Body. In short the Pseudocode in making algorithm.
+- The properties of Algorithm are Correctness,Finiteness and Generality.
+-     
+-     
+-     
+-     
+
