@@ -63,6 +63,8 @@ Week 2
 - We have tackled about Algorithm. I was late when Sir introduced algorithm in our class.
 - You must put the Procedure,Input ,Output and the Body. In short the Pseudocode in making algorithm.
 - The properties of Algorithm are Correctness,Finiteness and Generality.
+
+Week 8
 -     
 -     
 -     
