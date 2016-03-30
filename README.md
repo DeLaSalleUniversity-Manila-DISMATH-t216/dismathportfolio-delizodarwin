@@ -63,10 +63,24 @@ Week 2
 - We have tackled about Algorithm. I was late when Sir introduced algorithm in our class.
 - You must put the Procedure,Input ,Output and the Body. In short the Pseudocode in making algorithm.
 - The properties of Algorithm are Correctness,Finiteness and Generality.
+- Sir taught us to use while loop if the operation is not predictable and use for loop is the operation is predictable
+- 
 
 Week 8
--     
--     
+-   Sir taught us about Binary and Linear Search Algorithm.
+-   We have discussed about Bubble Sort and insertion Sort.
+-   we also discussed about Greedy Algorithm:
+-   Sir introduced about the coin change (67 centavos)
+-   His question was 'What is the maximum number of coins in terms of: Quarters,DImes,Nickel,Penny'.
+-   We were introduced to a new topic: Big O notation- it is the upper bound of the function
+-   The function should be multiplied to a constant to make it upper bound.
+-   Sir taught us also about Big Omega, the lower bound
+-   He also taught us about Big theta, for both upper and lower bound
+-   
+Week 9
+- I was absent during this day. My classmates told me that Sir discussed about Time Complexity
+- I need to get some notes and review this topic.
+
 -     
 -     
 
