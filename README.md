@@ -79,6 +79,36 @@ Week 8
 Week 9
 - I was absent during this day. My classmates told me that Sir discussed about Time Complexity
 - I need to get some notes and review this topic.
--     
--     
+
+
+Week 10
+
+| Complexity | Terminology |
+| :---: | :---: |
+| ϴ(1) | constant complexity |
+| ϴ(log n) | log complexity |
+| ϴ(n) | linear complexity |
+| ϴ(n log n) | n log n complexity |
+| ϴ(n^b) | polynomial complexity |
+| ϴ(b^n) | exponential complexity |
+| ϴ(n!) | factorial complexity |
+- I studied about time complexity because I was absent last week.
+- I tried to understand the lesson but it is still hard to understand Time Complexity
+- My classmates told me that Sir taught them about the iteration table
+- Sir taught a new topic about Graph Theory
+- Sir told us that it was easier than the previous topics
+- A graph includes vertices and edges.
+- Sir told us about Handshaking Theorem:
+    G=(V,E) be an undirected graph with e edges, then
+    2e = summation of deg (v) ; where e-edges, deg-degree, v-vertices
+- We have tackeled about Euler Circuit and Euler Path
+- It has an Euler path if a graph has exacly 2 nodes,vertices with odd degree (starting point yung isang node na may odd tapos end point yung isang node na may odd degree)
+- It has an Euler Circuit iff a graph has even degree for all nodes/vertices
+- We also tackled about Hamilton Path and Hamilton Circuit
+- The only difference between Eulerian and Hamitonian is Euler is for edges and Hamilton is nodes/vertices
+- We have discussed about Matrices of Graphs, the Adjacench Matrix, it is all about conncections
+- We also discussed about Isomorphism and Homeomorphism of Graphs.
+- We also discussed about Planar Graphs
+- We also discussed about Kuratowski's Theorem: The K3,3 and the K,5
+- The Kuratowski's Theorem determines if a graph is planar or non planar
 
