@@ -2,11 +2,13 @@
 dismathportfolio-delizodarwin created by Classroom for GitHub
 
   Week 1
+  
 - I learned about how to use proposition.
    Ex: x>10 at x=3. It is a proposition with a truth value false
 - I must practice in much challenging problems for the preparation for the upcoming quiz.
 
-Week 2
+  Week 2
+  
 - I learned how to use Negation, Conjuncton and Disjunction
 - I am a bit confused with the use of Exclusive or
 - In the usage of Conditional all I remembered was: 
@@ -27,6 +29,7 @@ Week 2
 -  Universal quantifier if the statement is true for all possible values
    
   Week 3
+
 - I learned about the Rules of Inference
 - I learned that argument is a sentence of statemets that end with a conclusion.
 - I also learned about fallacy - it is a common form of incorrect reasoning which lead to invalid arguments.
@@ -34,13 +37,15 @@ Week 2
 - I'm a bit confused with Hypothetical cyllogism and Disjunctive cyllogism.
 -  We were introduced to the use of Addition, Simplication, Conjunction and Resolution
  
-   Week 4
+  Week 4
+
 - We have discussed a bit about the Superman problem, each of the statements in that problem were broken down.
 - It lead to the answer that Superman does not exist.
 - We were introduced to the first proof--Direct Proof
 - In using Direct proof we must assume p=T and show that q=T using eq1.
 
   Week 5
+  
 - We have discussed about Proof by Contradiction.
 - This topic is a bit more confusing than the first proofs
 - We were introduced to Mathematical Induction
@@ -50,22 +55,32 @@ Week 2
 - Sir told us to study about Program Correctness because it will appear in Quiz 1.
 
   Week 6
+  
 - Sir introduced to a new topic, Set theory.
 - Set is an unordered collection of distinct objects, which may be anything(including other sets)
-- Sir taught us about set builder notations and using venn diagram
+- Sir taugt us about sets:
+-   {a,b,c} = {b,c,a} (They have same set)
+-  null symbol means empty set while a null symbol in an open-and-close braces is not an empty set (They are not equal)
+- Sir taught us about Membership, Set builder notations and using venn diagram
+- 
+
+  Week 7
+
 - We have discussed about types of functions
 -   1. One to one function- never assign the same value to two different domain elements
 -   2. Onto function-Functions that has equal range and co-domain.
 -    ex: Dapat may at least 8 students para lahat may grade (0.0,1.0,1.5,...4.0)
 -   3. One-to-one Correspondence-Pag parehas one-to-one at onto, automatic bijective.
 
-  Week 7
+  Week 8
+  
 - We have tackled about Algorithm. I was late when Sir introduced algorithm in our class.
 - You must put the Procedure,Input ,Output and the Body. In short the Pseudocode in making algorithm.
 - The properties of Algorithm are Correctness,Finiteness and Generality.
 - Sir taught us to use while loop if the operation is not predictable and use for loop is the operation is predictable
 
-Week 8
+  Week 9
+
 - Sir taught us about Binary and Linear Search Algorithm.
 - We have discussed about Bubble Sort and insertion Sort.
 - we also discussed about Greedy Algorithm:
@@ -76,12 +91,13 @@ Week 8
 - Sir taught us also about Big Omega, the lower bound
 - He also taught us about Big theta, for both upper and lower bound
    
-Week 9
+  Week 10
+
 - I was absent during this day. My classmates told me that Sir discussed about Time Complexity
 - I need to get some notes and review this topic.
 
 
-Week 10
+  Week 11
 
 | Complexity | Terminology |
 | :---: | :---: |
@@ -111,4 +127,21 @@ Week 10
 - We also discussed about Planar Graphs
 - We also discussed about Kuratowski's Theorem: The K3,3 and the K,5
 - The Kuratowski's Theorem determines if a graph is planar or non planar
+
+  Week 12
+
+- Sir taught us about Chromatic Numbers which will be included in the Final Exam
+- The chromatic number of the Petersen graph is 3
+- Sir taught us about the Four Color Theorem:
+    If Planar = 4 colors
+    If Non planar = 5-6 colors
+- The chromatic number of K5 is 5
+- The chromatic number of K6 is 6
+- The chromatic number of cycle 5 is 3
+- The chromatic number of cycle 100 is 2 because it is even
+- The chromatic number if it is odd is 3
+- Sir introduced as to Trees, Rooted Tree, Properties of Tree
+- Sir taught us about Automata Theory, it is the laws of computation
+- He told us to read about Lexical analyzers
+    
 
